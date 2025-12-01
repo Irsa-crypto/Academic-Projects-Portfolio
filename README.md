@@ -1,11 +1,9 @@
-## 🧩 Overview
-
 Here you will find the **main projects that marked my first year** of the BUT program.  
 They summarize everything I learned during this year and show how I started building my skills in **IT and networking**.
 
 ---
 
-## 🌐 Networking & Web Development
+## Networking & Web Development
 
 Throughout the year, I discovered the fundamentals of computer networks, including: IP addressing, VLANs, NAT, Address translation  
 
@@ -15,14 +13,14 @@ I also created my first websites using: HTML, CSS, JavaScript, PHP. I worked wit
 
 ---
 
-## 🔐 Cybersecurity
+## Cybersecurity
 
 I explored the world of cybersecurity and completed one of my most important projects of the year:  
 a full security awareness video, including: writing the script, recording the video, editing the entire content. This project was strongly supported by the skills I developed through my experience on YouTube.
 
 ---
 
-## ⚙️ Microprocessors & Low-Level Programming
+## Microprocessors & Low-Level Programming
 
 Another major part of the year was learning how microprocessors work.  
 I studied their architecture and completed a programming script to control the LEDs of an ESP32.
@@ -30,9 +28,6 @@ I studied their architecture and completed a programming script to control the L
 This helped me understand: low-level instructions, how registers operate, processor logic, the basics of C++.
 
 ---
-
-## 🎭 A Challenging but Rewarding Year
-
 This year was a big step for me, especially since I came from a scientific high school background 
 (math, physics, chemistry and English) without any prior experience in computer science.
 
