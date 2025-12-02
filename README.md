@@ -6,5 +6,5 @@ You can explore my work year by year:
 - 👉 [2nd year projects](https://github.com/Irsa-crypto/Academic-Projects-Portfolio/tree/Second-Year-of-BUT-R%C3%A9seaux-et-T%C3%A9l%C3%A9communications-(Bac+2))
 - 👉 [3rd year projects](https://github.com/Irsa-crypto/Academic-Projects-Portfolio/tree/Third-Year-of-BUT-R%C3%A9seaux-et-T%C3%A9l%C3%A9communications-(Bac%2B3)) Thus, this branch is not fully up to date, as it corresponds to my current year of study, and it will be updated gradually over time.
 
-You can also visit my linktree to explore more of my work and profile : 
+You can also visit my linktree to explore more of my profile and work : 
 - 👉 [Linketree](https://linktr.ee/Irsa_crypto) 
